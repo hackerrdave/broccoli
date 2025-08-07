@@ -30,7 +30,7 @@
     "mime": "^1.2.11",
     "rimraf": "^2.4.3",
     "rsvp": "^3.0.17",
-    "tmp": "0.0.28",
+    "tmp": "0.2.4",
     "underscore.string": "^3.2.2"
   },
   "devDependencies": {
